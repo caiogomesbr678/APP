@@ -1,8 +1,8 @@
 
-# Título do Projeto
+# O Que e um README.md
 
 Uma breve descrição sobre o que esse projeto faz e para quem ele é
-![SG] (.assets/Captura de Tela.png)
+
 
 
 ## Roadmap
@@ -123,13 +123,6 @@ Esse projeto é usado pelas seguintes empresas:
 
 [Documentação](https://link-da-documentação)
 
-
-# Olá, eu sou a Katherine! 👋
-
-
-## Demonstração
-
-Insira um gif ou um link de alguma demonstração
 
 
 
